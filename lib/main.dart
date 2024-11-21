@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'API JSON APP',
       showSemanticsDebugger: false,
-      home: HomeScreen(),
+      home: HomeScreen(),// ĐÂY LÀ TRANG CHỦ
     );
   }
 }
